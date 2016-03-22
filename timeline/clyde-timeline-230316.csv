@@ -1,0 +1,59 @@
+Layer Name,Event Name,Description,Start At,Approximate?,End At,Approximate?,Symbol Code,Color
+Work Experience,Graduation,I graduated from Auckland Univeristy of Technology,18 December 2013,no,"",no,2690,#90A4AE
+Work Experience,Orcale certification exam (OCAJP 7),"I prepared for the exam and did some mock test. Finally, I got the Oracle Certification for Java SE 7 Programmer (OCAJP 7)","February 25, 2014",no,22 April 2014,no,25cf,#90A4AE
+Work Experience,Web developer at Ann's Volcanic Motel,"I got my first project. Updating website for Ann’s Volcanic Motel. Also, It is my first time to learning PHP",28 April 2014,no,23 May 2014,no,25cf,#C62828
+Work Experience,Software Developer at Tangren Ltd,I got my first full-time job as a software developer at Tangren ltd.,28 May 2014,no,today,no,25cf,#1E88E5
+Work Experience,Internal project,I learned a lots of knowledge on PHP by reading old system in VB and update it to new system in PHP..,1 June 2014,no,31 July 2014,yes,25cf,#1E88E5
+Work Experience,Eckom Auto Parts,"Project Eckom Auto Parts was the first project from scratch in PHP. I learned more knowledge and experience in PHP, HTML, CSS and Javascript",25 July 2014,no,25 September 2014,yes,25cf,#1E88E5
+Work Experience,Kingdom Tour,"The second project building as client design. The challenges from Kingdom Tour was front end developing, includingHTML, CSS, JS and JQuery",20 September 2014,yes,25 December 2014,yes,25cf,#1E88E5
+Work Experience,Updating company website,I was responsible for updating company website using my knowledge and skills,10 January 2015,yes,28 February 2015,yes,25cf,#1E88E5
+Work Experience,Y&Y Food,"Y&Y Frozen Food as the first e-commence project. I tried to develop from scratch at the first version, but even it was not perfect, I learned a lot from that. Eventually, I changed it to WordPress&Woo-Commence at the second version.",20 February 2015,yes,30 April 2015,yes,25cf,#1E88E5
+Work Experience,Kindom Tour version 2,The travel agency need update their website for more e-commence features.,15 April 2015,yes,25 July 2015,yes,25cf,#1E88E5
+Work Experience,Own MVC framework,"In order to increase efficiency and decrease cost of project. I created own MVC frame, tangrenMVC, for company.",10 May 2015,yes,10 July 2015,yes,25cf,#1E88E5
+Work Experience,Training session,I attended ASP.Net training session at Industry Connect,20 July 2015,no,25 August 2015,no,25cf,#4CAF50
+Work Experience,Web developer at VirtualTag,Part time job at VirtualTag,14 August 2015,no,4 March 2016,no,25cf,#FF5722
+Work Experience,Gumet.jp,The project is to build up Gumet website using WordPress,17 August 2015,no,2 week,no,25cf,#FF5722
+Work Experience,Software developer at Central Station Software,Contact job at Central Station Software. I am working as part of .net team and join to Aimy project.,31 August 2015,no,today,no,25cf,#4CAF50
+Work Experience,HealthSafe,"","August 31, 2015",no,3 week,no,25cf,#FF5722
+Work Experience,Task Impersonate,"The first offline task about Impersonate, which is allow admin user to login as normal user. It is very helpful for support team.",20 September 2015,no,7 October 2015,no,25cf,#4CAF50
+Work Experience,MindSpark,"","September 21, 2015",no,5 February 2016,no,25cf,#FF5722
+Work Experience,Task Contact Manager,"I responsible for back-end and front-end developing of full features of the contact manager that is to manage more than 110,000 contact details in AIMY Plus.",5 October 2015,yes,10 December 2015,no,25cf,#4CAF50
+Work Experience,Mentor at Experieco,Self-contract role at Experieco as Mentor. Working as a paraprofessional and trainer who provides leadership of junior developers in Experieco and responsible for helping junior developers solving technical issues.,14 December 2015,no,today,no,25cf,#AED581
+Personal Project,Java programming tutor,I post advertisement online to mentor students. I provide tutorials for programming paper and assignments.,1 March 2014,no,27 June 2014,no,25cf,#424242
+Personal Project,Linode VPS,I paid a plan for Linode VPS to build up own webserver,26 April 2014,no,"",no,2690,#42A5F5
+Personal Project,Ubuntu System on VPS,I installed Ubuntu 14.04 on Linode VPS and built up web server environment.,"April 26, 2014",no,15 September 2014,yes,25cf,#42A5F5
+Personal Project,Java programming tutor,I post advertisement online to mentor students. I provide tutorials for programming paper and assignments.,28 July 2014,no,14 November 2014,no,25cf,#424242
+Personal Project,Install LAMP on Ubuntu,I reinstalled Ubuntu and fount LAMP is a good toolkit for web server. I learned how to use it.,"September 16, 2014",no,10 January 2015,yes,25cf,#42A5F5
+Personal Project,Personal website,I was used build personal website using WordPress,"September 16, 2014",no,10 September 2015,no,25cf,#42A5F5
+Personal Project,Magento Project,I Installed Magento on my web server to learn how to use Magento.,8 November 2014,yes,8 May 2015,yes,25cf,#42A5F5
+Personal Project,Dever studio,"Invite people from online and setup dever studio for learning technical skills including Magento, Boostrap, WordPress and ASP.Net",10 December 2014,no,today,no,25cf,#283593
+Personal Project,Webmin on web server,I found Virtualmin/Webmin is a good application to control web server. I reinstall Ubuntu and started using Webmin.,"January 11, 2015",no,23 May 2015,yes,25cf,#42A5F5
+Personal Project,Unity 2D&3D,I watched tutorials online to learn Unity 2D&3D,26 February 2015,yes,25 April 2015,yes,25cf,#42A5F5
+Personal Project,Java programming tutor,I post advertisement online to mentor students. I provide tutorials for programming paper and assignments.,2 March 2015,no,26 June 2015,no,25cf,#424242
+Personal Project,Re-intall web server,Upgrade and reinstall Ubuntu to build Webmin and LAMP environment together. I started setup personal website using WordPress.,"May 24, 2015",no,10 November 2015,yes,25cf,#42A5F5
+Personal Project,AngularJS app,I learned Angular JS and made the first application on Android.,30 May 2015,no,4 July 2015,no,25cf,#FFAB91
+Personal Project,Java programming tutor,I post advertisement online to mentor students. I provide tutorials for programming paper and assignments.,3 August 2015,no,13 November 2015,no,25cf,#424242
+Personal Project,Hellopets,Project Hellopets is a WordPress website for sharing pets stories and photos,25 September 2015,no,1 month,no,25cf,#C62828
+Personal Project,Updating Ann's Volcanic Motel,"To gain the Qualmark Award, Ann's Volcanic Motel need update their website from pure PHP to WordPress. I backed up all of data from old hosting and installed WordPress on new hosting.","October 25, 2015",no,11 December 2015,no,25cf,#C62828
+Personal Project,Confluence on webserver,Reinstall Ubuntu and installed Confluence on my web server instead of WordPress,"November 11, 2015",no,today,no,25cf,#42A5F5
+Personal Project,Java programming tutor,"",1 March 2016,no,today,no,25cf,#424242
+Skills,Java,"","December 18, 2013",no,today,no,25cf,#4DB6AC
+Skills,Linux/Ubuntu,"","April 26, 2014",no,today,no,25cf,#4DB6AC
+Skills,CSS,"",28 April 2014,no,today,no,25cf,#4DB6AC
+Skills,HTML,"",28 April 2014,no,today,no,25cf,#4DB6AC
+Skills,PHP,"",28 April 2014,no,today,no,25cf,#4DB6AC
+Skills,JavaScript/JQuery,"",30 April 2014,no,today,no,25cf,#4DB6AC
+Skills,LAMP,"","September 16, 2014",no,today,no,25cf,#4DB6AC
+Skills,WordPress,"","September 16, 2014",no,today,no,25cf,#4DB6AC
+Skills,Magento,"",8 November 2014,no,8 May 2015,no,25cf,#4DB6AC
+Skills,ASP.Net,"",10 December 2014,no,today,no,25cf,#4DB6AC
+Skills,SQL Server,"",10 December 2014,no,today,no,25cf,#4DB6AC
+Skills,Bootstrap,"",10 January 2015,no,today,no,25cf,#4DB6AC
+Skills,Webmin,"","January 11, 2015",no,today,no,25cf,#4DB6AC
+Skills,AJAX,"",20 February 2015,no,today,no,25cf,#4DB6AC
+Skills,Unity 2D&3D,"",26 February 2015,no,25 April 2015,no,25cf,#4DB6AC
+Skills,MVC,"",10 May 2015,no,today,no,25cf,#4DB6AC
+Skills,AngularJS,"",30 May 2015,no,4 July 2015,no,25cf,#4DB6AC
+Skills,Kendo UI,"",31 August 2015,no,today,no,25cf,#4DB6AC
+Skills,Confluence,"",5 November 2015,no,today,no,25cf,#4DB6AC
+Skills,JIRA,"",11 November 2015,no,today,no,25cf,#4DB6AC
